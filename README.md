@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @svrdzko
+- 👀 I’m interested in lua scripts
+- 🌱 I’m currently learning lua
+- 📫 How to reach me - 𝘀 𝘃 𝗿 𝗱 𝘇 𝗸 𝗼#9968
